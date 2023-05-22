@@ -2,6 +2,6 @@ ICOF1
 
 Integrated RP2040 Circuit Open Frame 1 PCB Design
 
-big thanks to Quark, Bjart, 
+utilizes default haybox and pico-rectangle pinout
 
-and Greggy Turbinado (begrudgingly)
+big thanks to Cubs, Quark, Bjart, and Greggy Turbo
